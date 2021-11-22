@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnaut_Denisa_Lab4", "Arnaut_Denisa_Lab4.csproj", "{9843A2EE-474D-4437-BFDD-A3B02E3A5893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{34364EE9-BDCE-4D35-9CC2-7540FA08A2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9843A2EE-474D-4437-BFDD-A3B02E3A5893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9843A2EE-474D-4437-BFDD-A3B02E3A5893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9843A2EE-474D-4437-BFDD-A3B02E3A5893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9843A2EE-474D-4437-BFDD-A3B02E3A5893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34364EE9-BDCE-4D35-9CC2-7540FA08A2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34364EE9-BDCE-4D35-9CC2-7540FA08A2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34364EE9-BDCE-4D35-9CC2-7540FA08A2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34364EE9-BDCE-4D35-9CC2-7540FA08A2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBC7FAE-FE2D-446F-9059-550C827E1429}
+	EndGlobalSection
+EndGlobal
